@@ -3,3 +3,5 @@ My name is suraj and getting into to Git world.
 editing for the first time.
 
 adding new lines for new branch
+
+now merge need to be practiced
